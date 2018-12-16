@@ -1,0 +1,17 @@
+﻿  compilation header save succeeded; see C:\Users\jaked\Desktop\Chili Framework\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\jaked\Desktop\Chili Framework\Engine\FramebufferVS.shh
+  DXErr.cpp
+  Game.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Tiefigher.cpp
+  Xwing.cpp
+  Generating code
+  558 of 563 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\jaked\Desktop\Chili Framework\Release\Engine.exe
